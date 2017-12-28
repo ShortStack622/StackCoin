@@ -1,1 +1,1 @@
-Who needs coins when yoi have STAX???
+Who needs coins when you can have STAX???
