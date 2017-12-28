@@ -13,7 +13,7 @@ enable_testing()
 configure_file(${CMAKE_SOURCE_DIR}/CTestCustom.cmake ${CMAKE_BINARY_DIR})
 
 project(CryptoNote)
-set_property(TARGET daemon PROPERTY OUTPUT_NAME "furiouscoind")
+set_property(TARGET daemon PROPERTY OUTPUT_NAME "StackCoin")
 
 include_directories(include src external "${CMAKE_BINARY_DIR}/version")
 if(APPLE)
